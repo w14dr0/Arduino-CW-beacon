@@ -1,7 +1,11 @@
 # Arduino-CW-beacon
 
-You can use this program to send a custom beacon.
+UWAGA! Nie jest to sygnał audio lecz sygnał PWM.
 
-Your message must be written in UPPERCASE
+Pomiędzy modułem a radiem musi być separacja galwaniczna!
 
-21kHz tone is used to turn on the radio VOX before the start of the message.
+
+Gotowy interfejs z separacją Audio i PTT można znależć w moim repozytorium.
+
+
+de SQ2MTG
